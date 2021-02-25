@@ -97,12 +97,12 @@ export default {
     },
 
     triggerWarningSound() {
-      var audio = new Audio('/audio/tick.mp3')
+      var audio = new Audio(require('./../assets/tick.mp3'))
       audio.play()
     },
 
     triggerEndSound() {
-      var audio = new Audio('/audio/ting2.mp3')
+      var audio = new Audio(require('./../assets/ting2.mp3'))
       audio.play()
     },
 
