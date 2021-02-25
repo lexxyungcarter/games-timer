@@ -1,28 +1,27 @@
-# games-timer
-<<<<<<< HEAD
+# Games Timer
+A timer for games played on blitz mode. Each player has a set time to make a move in each round
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+npm build
 ```
 
 ### Lints and fixes files
 ```
-yarn lint
+npm lint
 ```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-A timer for games played on blitz mode. Each player has a set time to make a move in each round
->>>>>>> 53ec281e4de86276e30947a85095fbf052d1763b
+
+
