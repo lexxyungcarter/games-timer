@@ -4,7 +4,7 @@
 			<div class="player-name">{{ name }}</div>
 			<div class="player-tag">Player {{ position }}</div>
 
-      <img src="@/assets/pad2.png" alt="pad" class="pad">
+      <img src="/img/pad2.png" alt="pad" class="pad">
 		</div>
 	</div>
 </template>
